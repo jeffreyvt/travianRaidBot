@@ -1,0 +1,229 @@
+1478817935119	geckodriver	INFO	Listening on 127.0.0.1:53577
+1478817935125	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.rLxxVsuDe4Ck
+1478817935126	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478817935144	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53584
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478817935707	Marionette	INFO	Listening on port 53584
+1478817936760	Marionette	INFO	startBrowser afb1b92e-c6be-9742-8d4d-31899080f5c9
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478854849033	geckodriver	INFO	Listening on 127.0.0.1:55883
+1478854850037	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.Nhz45rD5ZzgD
+1478854850038	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478854850041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55890
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478854850578	Marionette	INFO	Listening on port 55890
+1478854851636	Marionette	INFO	startBrowser 6a9ab126-1093-5f4c-818e-9b05a7ef4146
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478854879566	geckodriver	INFO	Listening on 127.0.0.1:55976
+1478854880575	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.7Ofm2m4Bpamr
+1478854880576	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478854880581	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55982
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478854881054	Marionette	INFO	Listening on port 55982
+1478854882020	Marionette	INFO	startBrowser 85b3e785-b82c-0a4c-abaf-cc90b3a6291d
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478855264697	geckodriver	INFO	Listening on 127.0.0.1:56252
+1478855265706	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.SUmqn6jdO2MC
+1478855265707	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478855265709	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56259
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478855266203	Marionette	INFO	Listening on port 56259
+1478855267188	Marionette	INFO	startBrowser d197f1a4-3f31-1e42-ad5d-51433036e770
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478855435543	geckodriver	INFO	Listening on 127.0.0.1:56377
+1478855436551	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.gBZO8t08ZCx1
+1478855436554	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478855436556	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56383
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478855437051	Marionette	INFO	Listening on port 56383
+1478855438278	Marionette	INFO	startBrowser 327f35e0-8b86-ed4e-8794-19f9d6fee854
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+[Child 23847] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 23847] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1478855740691	geckodriver	INFO	Listening on 127.0.0.1:56518
+1478855741699	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.Yoj9vPzgsdxC
+1478855741700	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478855741704	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56524
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478855742205	Marionette	INFO	Listening on port 56524
+1478855743163	Marionette	INFO	startBrowser 173898ea-5f21-9948-bf5f-0c107ff09770
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478855905492	geckodriver	INFO	Listening on 127.0.0.1:56693
+1478855906502	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.hed7qPzF5Dsb
+1478855906503	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478855906507	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56699
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478855906986	Marionette	INFO	Listening on port 56699
+1478855907943	Marionette	INFO	startBrowser fe98bb5d-5517-fd4e-8378-77780aa13d02
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478856043375	geckodriver	INFO	Listening on 127.0.0.1:56801
+1478856044386	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.hKjRlzEVlqBi
+1478856044387	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478856044391	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56807
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478856044865	Marionette	INFO	Listening on port 56807
+1478856045823	Marionette	INFO	startBrowser 9bcc73ec-baf1-9448-8207-2ecfaf3fcc35
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478856385718	geckodriver	INFO	Listening on 127.0.0.1:56985
+1478856386726	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.rJ4T9xNCrmAW
+1478856386728	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478856386732	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56991
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478856387225	Marionette	INFO	Listening on port 56991
+1478856388223	Marionette	INFO	startBrowser d730c6c8-c1e0-5a4b-b1fb-af6d9a099122
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478856492790	geckodriver	INFO	Listening on 127.0.0.1:57060
+1478856493795	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.9ALwKR77DzJT
+1478856493796	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478856493800	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57066
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478856494293	Marionette	INFO	Listening on port 57066
+1478856495465	Marionette	INFO	startBrowser 3b9f27b2-c928-ae49-b8f1-57f4f7a83645
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478856593991	geckodriver	INFO	Listening on 127.0.0.1:57171
+1478856595002	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.jPS9PuWwqntL
+1478856595003	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478856595007	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57177
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478856595486	Marionette	INFO	Listening on port 57177
+1478856596465	Marionette	INFO	startBrowser 71fb2a36-d6bf-ed4d-84ef-8cfa03dc88e2
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478857208617	geckodriver	INFO	Listening on 127.0.0.1:57430
+1478857209624	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.TXl0KPFGW3Mb
+1478857209625	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478857209629	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57436
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478857210128	Marionette	INFO	Listening on port 57436
+1478857211231	Marionette	INFO	startBrowser 518213d7-6bdc-4149-8dc6-3c0974ea1afd
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478857427887	geckodriver	INFO	Listening on 127.0.0.1:57647
+1478857428900	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.vEEY0zdREceM
+1478857428901	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478857428905	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57654
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478857429388	Marionette	INFO	Listening on port 57654
+1478857430402	Marionette	INFO	startBrowser 944b64be-caba-f94d-b5aa-5622f1a2ac4e
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478857447433	geckodriver	INFO	Listening on 127.0.0.1:57698
+1478857448445	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.BpO67ZiPgGLJ
+1478857448446	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478857448449	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57704
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478857448956	Marionette	INFO	Listening on port 57704
+1478857449927	Marionette	INFO	startBrowser dd8e0dc7-3f4f-1e4a-a32a-5ba93db2b9ec
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478857752575	geckodriver	INFO	Listening on 127.0.0.1:57898
+1478857753582	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.5xzapOD85exC
+1478857753583	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478857753586	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57906
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478857754069	Marionette	INFO	Listening on port 57906
+1478857755060	Marionette	INFO	startBrowser bb90f02c-9c9c-1b45-b510-f53936420ac3
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478858510656	geckodriver	INFO	Listening on 127.0.0.1:58157
+1478858511663	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.NJgBCBxT7CF6
+1478858511664	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478858511668	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58163
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478858512154	Marionette	INFO	Listening on port 58163
+1478858513114	Marionette	INFO	startBrowser bc788a6c-d7b7-e04d-87e2-3adc32e693a8
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478858655617	geckodriver	INFO	Listening on 127.0.0.1:58271
+1478858656623	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.1bydtMwQeg0l
+1478858656624	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478858656628	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58278
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478858657099	Marionette	INFO	Listening on port 58278
+1478858658043	Marionette	INFO	startBrowser e0246101-3639-894a-80b8-9ac2464fba74
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+1478859732628	geckodriver	INFO	Listening on 127.0.0.1:58637
+1478859733645	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.JQy5LdiZwF32
+1478859733646	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478859733650	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58643
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478859734153	Marionette	INFO	Listening on port 58643
+1478859735123	Marionette	INFO	startBrowser dbb9ed4e-40b5-3747-a3db-a74ce4846c28
+1478859777392	geckodriver	INFO	Listening on 127.0.0.1:58673
+1478859778399	mozprofile::profile	INFO	Using profile path /var/folders/3j/33p21p813t500fgttn74d96c0000gn/T/rust_mozprofile.A4DAsYZ0vakc
+1478859778400	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1478859778404	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58679
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1478859778892	Marionette	INFO	Listening on port 58679
+1478859779863	Marionette	INFO	startBrowser a409462c-54c4-6940-88fa-add71b4fc65a
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
+JavaScript warning: http://ts4.travian.com.au/crypt.js?1477662491, line 301: unreachable code after return statement
